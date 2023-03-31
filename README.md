@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 I'm a student learning programming since i was a kid, i do it for fun.
 
 Languages i know:
